@@ -8,3 +8,4 @@
 - [2026-05-06T16:34:22Z] refactor: clean up unused imports
 - [2026-05-06T21:18:50Z] chore: update dependencies to latest versions
 - [2026-05-06T08:29:56Z] perf: optimize loop for better performance
+- [2026-05-06T08:41:57Z] docs: improve inline documentation
