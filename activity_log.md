@@ -11,3 +11,4 @@
 - [2026-05-06T08:41:57Z] docs: improve inline documentation
 - [2026-05-06T14:57:05Z] fix: handle null pointer exception
 - [2026-05-06T11:34:35Z] perf: optimize loop for better performance
+- [2026-05-06T18:13:19Z] feat: add helper utility function
